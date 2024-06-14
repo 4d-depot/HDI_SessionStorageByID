@@ -1,6 +1,6 @@
-# HDI_Template_20
+# HDI_SessionStorageByID
 
-Description (4D 20 Rx)
+Get session storage for a specific session defined by its ID (4D 20 Rx)
 
 Find more information on the [blog post](https://blog.4d.com/).
 
