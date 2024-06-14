@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<body bgcolor="#ffffff">
+	<center><h3> Hello <!--#4DEVAL Choose(Session.userName # ""; Session.userName; "... nobody")--></h3></center> 
+	   <br/>
+	   Session.expirationDate: <!--#4DTEXT Session.expirationDate -->
+	   <br/>
+	   Session.userName: <!--#4DTEXT Session.userName -->
+	   <br/>
+	   Session.id: <!--#4DTEXT Session.id -->
+	   <br/>
+	   Session.storage: <!--#4DTEXT JSON Stringify(Session.storage) -->
+	</body>
+</html>
+	  
