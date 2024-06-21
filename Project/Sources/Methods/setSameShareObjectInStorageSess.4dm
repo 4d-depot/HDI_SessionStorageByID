@@ -8,8 +8,13 @@ If (Session:C1714=Null:C1517)
 	return 
 End if 
 
+If ($bTrace)
+	TRACE:C157
+End if 
+
 $same:=New shared object:C1526("text"; "Alpha")
 
+// Set the shared object $same in the storage for each session 
 For each ($col; $sessions)
 	
 	$obj:=Session storage by ID:C1839($col.ID)

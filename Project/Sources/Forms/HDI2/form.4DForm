@@ -261,18 +261,6 @@
 					],
 					"method": "ObjectMethods/Button16.4dm"
 				},
-				"Button": {
-					"type": "button",
-					"text": "Get session storage",
-					"top": 330,
-					"left": 480,
-					"width": 160,
-					"height": 20,
-					"events": [
-						"onClick"
-					],
-					"method": "ObjectMethods/Button.4dm"
-				},
 				"Input": {
 					"type": "input",
 					"left": 676,
@@ -310,6 +298,18 @@
 					"left": 480,
 					"width": 144,
 					"height": 16
+				},
+				"Button8": {
+					"type": "button",
+					"text": "Get session storage",
+					"top": 330,
+					"left": 480,
+					"width": 160,
+					"height": 20,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Button8.4dm"
 				}
 			}
 		},
@@ -478,5 +478,5 @@
 			"View 1": {}
 		}
 	},
-	"geometryStamp": 322
+	"geometryStamp": 325
 }
