@@ -2,7 +2,7 @@
 
 Get session storage for a specific session defined by its ID (4D 20 R6)
 
-Find more information on the [blog post](https://blog.4d.com/).
+Find more information on the [blog post](https://blog.4d.com/enhanced-session-storage-access/).
 
 ## Installing and Using a 4D Project
 
